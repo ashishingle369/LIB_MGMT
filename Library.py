@@ -62,6 +62,10 @@ def main():
         elif choice == 5:
             print("Thank you for using the Library Management System!")
             break
+            elif choice == 6:
+            print("changed bruh1")
+            break
+            
         else:
             print("Invalid choice! Please try again.")
 
