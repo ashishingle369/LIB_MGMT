@@ -65,6 +65,9 @@ def main():
             elif choice == 6:
             print("changed bruh1")
             break
+        elif choice == 7:
+            print(" Library Management System!")
+            break
             
         else:
             print("Invalid choice! Please try again.")
